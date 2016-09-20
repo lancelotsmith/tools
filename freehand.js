@@ -1,4 +1,4 @@
-// Begin Source: src/imageTools/lengthTool.js
+// Begin Source: src/imageTools/freehand.js
 (function($, cornerstone, cornerstoneMath, cornerstoneTools) {
 
     'use strict';
@@ -223,4 +223,4 @@
 
 })($, cornerstone, cornerstoneMath, cornerstoneTools);
  
-// End Source; src/imageTools/lengthTool.js
+// End Source; src/imageTools/freehand.js
