@@ -3,7 +3,7 @@
 
     'use strict';
 
-    var toolType = 'length';
+    var toolType = 'freehand';
 
     ///////// BEGIN ACTIVE TOOL ///////
     function createNewMeasurement(mouseEventData) {
